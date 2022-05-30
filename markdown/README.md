@@ -1,7 +1,6 @@
-Rahul Palivela personal page img { width: 50%; height: 50%; } table, th, td { border:1px solid black; }
 
-Rahul Palivela
-==============
+# Rahul Palivela
+
 
 ![temp](IMG_20220527_150740.jpg)  
 
@@ -13,31 +12,11 @@ My best thing here at **IIT Goa** is I got my branch changed from _**Mechanical*
 
 **EDUCATION**
 -------------
-
-Year of Graduation
-
-Degree
-
-Institution
-
-2024
-
-Btech
-
-Indian Institute of Technology Goa
-
-2020
-
-class 12
-
-Sri Venkateswara Junior college
-
-2018
-
-SSC
-
-Dr KKR's Gowtham School
-
+| Year Of Graduation      | Degree | Institution | 
+| ----------- | ----------- | ----------- |
+| 2024      | Btech       | IIT Goa|
+| 2020   | Class 12        |Sri Venkateswara Junior College|
+|2018 | SSC| Dr KKR's Gowtham School|
 * * *
 
 ### **Autumn 2020-21**
