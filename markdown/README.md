@@ -2,7 +2,7 @@
 # Rahul Palivela
 
 
-![temp](/Users/rahulpalivela/Documents/GitHub/rahulpalivela18.github.io/IMG_20220527_150740.jpg"MY PHOTO")  
+![temp](IMG_20220527_150740.jpg)  
 
 
 My full name is **Rahul Palivela**. I live in **Visakhapatnam**, "The City Of Destiny".  
