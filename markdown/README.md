@@ -2,7 +2,7 @@
 # Rahul Palivela
 
 
-![temp](IMG_20220527_150741.jpg){width=25%}
+![temp](IMG_20220527_150741.jpg)
 
 My full name is **Rahul Palivela**. I live in **Visakhapatnam**, "The City Of Destiny".  
 I am a second year student in the department of _Mathematics and Computing_. My roll number is _2006329_. I like to play sports and do competitive programming.  
